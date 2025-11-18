@@ -26,4 +26,4 @@ My interests include communication networks, system performance, and real-world 
 
 ## 📫 Connect With Me
 - **LinkedIn:** linkedin.com/in/aswanth-n-n
-- **Instagram:** instagram.com/aswanth_n_n
+- **Instagram:** instagram.com/astral_ashhh
