@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm **Aswanth N N**
 
-<!--
-**AswanthNN/aswanthnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Networking Student | System Administration Enthusiast
 
-Here are some ideas to get you started:
+I build Python tools, automation scripts, and networking projects.  
+My interests include communication networks, system performance, and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- Python (Scripts, Tools, CLI Apps)
+- Networking (Mesh / Tree Topology, Packet Tracer)
+- Web Development (Basic)
+- SQL & Databases
+- Linux & System Administration
+
+---
+
+## 📌 Featured Projects
+- Unit Converter Tool (Python)
+- Mesh Topology Performance Analysis (Packet Tracer)
+- Meditrack – Hospital Feedback System (Web App)
+- IPC Benchmark Tool – Latency, Bandwidth, Synchronization (Python)
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** linkedin.com/in/aswanth-n-n
+- **Instagram:** instagram.com/aswanth_n_n
